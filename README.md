@@ -3,3 +3,4 @@
 
 # Wiki:
 - https://en.wikipedia.org/wiki/Identity_and_access_management
+- https://en.wikipedia.org/wiki/Trusted_execution_environment
